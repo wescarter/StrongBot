@@ -5,7 +5,7 @@ import tweepy
 logger = logging.getLogger()
 
 #set file path to upload OAUTH keys
-os_path   = "D:/evnca/projects/StrongBot/"
+os_path   = "D:/evnca/projects/authentication/"
 os_root   = "authkeys.txt"
 file_path = os.path.join(os_path+os_root)
 
